@@ -1,6 +1,6 @@
 project(d3wasm)
 
-cmake_minimum_required(VERSION 3.0.0 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.8.2 FATAL_ERROR)
 
 # don't add these as options, but document them?
 # IDNET_HOST		-DIDNET_HOST=\\"%s\\"' % IDNET_HOST
